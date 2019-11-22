@@ -1,6 +1,6 @@
 version: "3"
 services:
-    docker-go:
+    docker-go2:
         build: ./
         ports:
             - '80:80'
